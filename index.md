@@ -40,6 +40,6 @@ All four of these classes have some sort of solo/group project that will happen 
 3. [**Sungold Kiwis**](/pictures/kiwi.png)
 
 ## **Contacts and Credits**  
-[Personal Email](wangalex39@gmail.com) | [School Email](alw002@ucsd.edu) | [GitHub](https://github.com/alw002)
+Personal Email: wangalex39@gmail.com | School Email: alw002@ucsd.edu | [GitHub](https://github.com/alw002)
 
 This site was built using [GitHub Pages](https://pages.github.com/)
