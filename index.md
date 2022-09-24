@@ -5,7 +5,7 @@
 [Classes](#fall-2022-classes)  
 [Todo](#todo-list)  
 [Favorite Fruits](#ranking-favorite-fruits)  
-[Contacts and Credits](#credits)  
+[Contacts and Credits](#contacts-and-credits)  
 
 ## **About** **Me**
 As of Fall 2022, I am in the last year of my undergraduate education majoring in Computer Engineering at UCSD. As of recently, I would say my favorite programming language is Python because of its wide applications in AI/ML.
@@ -40,6 +40,6 @@ All four of these classes have some sort of solo/group project that will happen 
 3. [**Sungold Kiwis**](/pictures/kiwi.png)
 
 ## **Contacts and Credits**  
-Personal Email: wangalex39@gmail.com | School Email: alw002@ucsd.edu 
+[Personal Email](wangalex39@gmail.com) | [School Email](alw002@ucsd.edu) | [GitHub](https://github.com/alw002)
 
 This site was built using [GitHub Pages](https://pages.github.com/)
