@@ -27,7 +27,7 @@ The classes that I am enrolled in for the **Fall 2022** quarter are as follows:
 All four of these classes have some sort of solo/group project that will happen down the line.
 > Surely I will be able handle all of them together and not drop either *CSE190* or *ENG100D* down the line.
 
-![This is an image](/pictures/Clueless.png)
+![very clueless person](/pictures/Clueless.png)
 
 ## **Todo** **List**
 - [ ] Learn a machine learning framework: PyTorch or TensorFlow
@@ -40,6 +40,6 @@ All four of these classes have some sort of solo/group project that will happen 
 3. [**Sungold Kiwis**](/pictures/kiwi.png)
 
 ## **Contacts and Credits**  
-Personal Email: wangalex39@gmail.com | School Email: alw002@ucsd.edu | [GitHub](https://github.com/alw002)
+[Personal Email](mailto:wangalex39@gmail.com) | [School Email](mailto:alw002@ucsd.edu) | [GitHub](https://github.com/alw002)
 
 This site was built using [GitHub Pages](https://pages.github.com/)
