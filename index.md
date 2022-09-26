@@ -1,14 +1,14 @@
 # Alex Wang's User Page  
 
 ## **Sections**
-[About Me](#some-information-about-me)  
-[Classes](#fall-2022-classes)  
-[Todo](#todo-list)  
-[Favorite Fruits](#ranking-favorite-fruits)  
-[Contacts and Credits](#contacts-and-credits)  
+- [About Me](#about-me)  
+- [Classes](#fall-2022-classes)  
+- [Todo](#todo-list)  
+- [Favorite Fruits](#ranking-favorite-fruits)  
+- [Contacts and Credits](#contacts-and-credits)  
 
 ## **About** **Me**
-As of Fall 2022, I am in the last year of my undergraduate education majoring in Computer Engineering at UCSD. As of recently, I would say my favorite programming language is Python because of its wide applications in AI/ML.
+As of **Fall** **2022**, I am in the last year of my undergraduate education majoring in Computer Engineering at UCSD. As of recently, I would say my favorite programming language is Python because of its wide applications in AI/ML.
 
 Some basic Git commands are:
 ```
@@ -31,7 +31,7 @@ All four of these classes have some sort of solo/group project that will happen 
 
 ## **Todo** **List**
 - [ ] Learn a machine learning framework: PyTorch or TensorFlow
-- [ ] Prepare for CSE152: Linear Algebra and various Python libraries 
+- [ ] Prepare for _CSE152_: Linear Algebra and various Python libraries 
 - [ ] Review CS concepts for interviews
 
 ## **Ranking** **Favorite** **Fruits**
