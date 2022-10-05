@@ -31,7 +31,7 @@ All four of these classes have some sort of solo/group project that will happen 
 
 ## **Todo** **List**
 - [ ] Learn a machine learning framework: PyTorch or TensorFlow
-- [ ] Prepare for _CSE152_: Linear Algebra and various Python libraries 
+- [ ] Prepare for _CSE151_
 - [ ] Review CS concepts for interviews
 
 ## **Ranking** **Favorite** **Fruits**
